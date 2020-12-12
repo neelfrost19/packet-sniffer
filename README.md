@@ -5,6 +5,6 @@ winpcap is also necessary.
 
 Download it from https://sourceforge.net/projects/jnetpcap/
 
--Run the program it from Ui class
+-Run the program from Ui class
 
 -For testing purpose use sniff_test class
